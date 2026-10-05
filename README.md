@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hisham Keightley
 
-<!--
-**HishamKeightley/HishamKeightley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with extensive experience building and supporting enterprise applications, platforms, and infrastructure.
 
-Here are some ideas to get you started:
+My background spans software engineering, Linux-based platforms, distributed systems, automation, and production operations. I'm currently expanding that experience into modern cloud-native engineering, with a focus on Google Cloud, Kubernetes, Terraform, and modern Java development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Cloud infrastructure and platform engineering
+- Google Cloud Platform (GCP)
+- Terraform and Infrastructure as Code
+- Kubernetes and containerized applications
+- Java and Spring Boot
+- Python automation and LLM-based tooling
+
+## Selected Projects
+
+I'm currently building out this GitHub profile with hands-on projects demonstrating cloud infrastructure, automation, backend development, and platform engineering.
+
+More projects coming soon.
